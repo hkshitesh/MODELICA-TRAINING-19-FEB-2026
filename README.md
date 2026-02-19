@@ -1,6 +1,6 @@
 ## Google Drive Link for Windows User
 
-  https://drive.google.com/drive/u/1/folders/11UI68HTaXNMcqtPuW-GA_ELk8n4-jC3C
+  https://drive.google.com/drive/folders/11UI68HTaXNMcqtPuW-GA_ELk8n4-jC3C?usp=sharing
 
 ## For Mac Users
 
